@@ -2,8 +2,8 @@
 
 <div align="center">
   <p>
-    Full-Stack Developer focused on building high-performance landing pages and institutional websites 
-    with responsive design, SEO optimization, and clean code.
+    Full Stack Developer focused on web application architecture, performance, and security.
+    Passionate about building scalable solutions and improving skills in cybersecurity and web application security.
   </p>
 </div>
 
@@ -13,8 +13,6 @@
 - 🔗 [**My Portfolio**](https://caminhourbano.com.br/) → Minimalist design, mobile-first, animations, clean code, robust structure.
 - 🔗 [**Sprint L7**](https://sprint-l7.vercel.app/) → Landing Page for digital product sales, built with Next.js + Tailwind, responsive, clean, and SEO-ready.
 - 🔗 [**Neon Mangá**](https://neon-manga.vercel.app/) → Online manga reading platform integrated with the MangaDex API, focused on performance and a smooth user experience.
-- 🔗 [**Candle Calculator**](https://calculadoradevela.netlify.app/) → Custom app developed to optimize the production workflow of the **Ateliê Velas D’Odoyá** store.
-
 ---
 
 ## ⚡ Skills
@@ -29,5 +27,5 @@
 ## 📡 Contact
 <p align="center">
   <a href="mailto:wagner.vn.dev@gmail.com">✉️ Send Email</a> • 
-  <a href="https://www.linkedin.com/in/wagner-vitor-novais">💼 My LinkedIn</a>
+  <a href="https://www.linkedin.com/in/wagnervn">💼 My LinkedIn</a>
 </p>
