@@ -9,12 +9,6 @@
 
 ---
 
-## 📂 Featured Projects
-- 🔗 [**My Portfolio**](https://caminhourbano.com.br/) → Minimalist design, mobile-first, animations, clean code, robust structure.
-- 🔗 [**Sprint L7**](https://sprint-l7.vercel.app/) → Landing Page for digital product sales, built with Next.js + Tailwind, responsive, clean, and SEO-ready.
-- 🔗 [**Neon Mangá**](https://neon-manga.vercel.app/) → Online manga reading platform integrated with the MangaDex API, focused on performance and a smooth user experience.
----
-
 ## ⚡ Skills
 <div align="center">
 
